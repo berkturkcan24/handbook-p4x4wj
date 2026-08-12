@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berkturkcan24.github.io/handbook-p4x4wj/sitemap.xml
